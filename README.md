@@ -20,3 +20,5 @@ module.exports = {
  }
 }
 ```
+
+gitbug: https://github.com/pengwenquan/eslint-plugin-explanatory
