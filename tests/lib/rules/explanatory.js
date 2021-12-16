@@ -32,8 +32,8 @@ ruleTester.run("explanatory", rule, {
 
   invalid: [
     {
-      code: "// xxx",
-      errors: [{ message: '注释中含有不被允许的字符xxx' }],
+      code: "// Fixme",
+      errors: [{ message: '注释中含有不被允许的字符Fixme' }],
     },
     {
       code: "// Fixme",

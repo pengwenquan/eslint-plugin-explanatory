@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-explanatory",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "a plugin to check explantory note content",
   "keywords": [
     "eslint",
