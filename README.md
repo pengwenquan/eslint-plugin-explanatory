@@ -14,7 +14,7 @@ npm install eslint-plugin-explanatory -D
 module.exports = {
   plugins: [ 'explanatory' ],
   rules: { 
-    "explanatory/explanatory": "error" // default word key: fixme
+    "explanatory/explanatory": "error" // default word keys: 'fixme', 'fix', 'fixit', 'todo'
     // or declare keyWords youself
     'explanatory/explanatory': ['error', {keyWords: ['todo', 'fixme']}] // keyWords can be any words
  }
